@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
-#COPYING
-#MODULE_LICENSE("BSD");
-#MODULE_AUTHOR("Ryuichi Ueda");
+#LICENSE:BSD
+#Copyright (c) Ryuichi Ueda.
+#All right reserved.
+
 
 import rospy
 from std_msgs.msg import Int32
