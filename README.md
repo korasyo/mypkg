@@ -17,6 +17,9 @@ Raspberry Pi3
 端末4  
 `$ rostopic echo /twice　　 //動作の確認`
 # 実行動画
-
+count.pyの動画  
+https://youtu.be/JL8sz5lpPKE  
+twice.pyの動画
+https://youtu.be/9xIX35mETUI
 # ライセンス
 BSD 3-Clause License
